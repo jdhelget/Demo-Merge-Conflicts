@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Justin Helget
+A simple demo, by Justin Helget for DMIT2018
